@@ -1,0 +1,1 @@
+const githubScopes = ['repo', 'read:org'];
